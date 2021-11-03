@@ -42,7 +42,7 @@ public class Nhapdl {
       myWriter.write(str);
       myWriter.close();
       System.out.println("Successfully wrote to the file");
-    } catch (IOException e) {
+    } catch (IOException e){
       System.out.println("An error occurred.");
       e.printStackTrace();
     }
@@ -59,6 +59,7 @@ public class Nhapdl {
         System.out.println("An error occurred.");
         e.printStackTrace();
         }
+    
     }
 }
     

@@ -17,7 +17,7 @@ import java.util.Scanner;
  *
  * @author DELL
  */
-public class aaaaa {
+public class outputCar {
     public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 	Scanner scanner = new Scanner(System.in);
